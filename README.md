@@ -1,6 +1,6 @@
 <div align="center">
 
-🌐 [English](./README.md) &nbsp;|&nbsp; [Português](./README.pt-br.md)
+[English](./README.md) &nbsp;|&nbsp; [Português](./README.pt-br.md)
 
 # Tiago Oliveira
 
